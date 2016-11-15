@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 winning_numbers = [2, 5, 8, 11, 14, 17, 20]
 winner = 'Human'
 number = 0
